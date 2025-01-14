@@ -1,0 +1,89 @@
+---
+booktitle: Proceedings of the 16th Asian Conference on Machine Learning
+shortname: ACML
+publisher: PMLR
+published: 2025-01-14
+start: &1 2024-12-05
+end: 2024-12-08
+series: Proceedings of Machine Learning Research
+volume: '260'
+year: '2025'
+layout: proceedings
+issn: 2640-3498
+id: ACML2024
+month: 0
+cycles: false
+bibtex_editor: Nguyen, Vu and Lin, Hsuan-Tien
+editor:
+- given: Vu
+  family: Nguyen
+- given: Hsuan-Tien
+  family: Lin
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 16th Asian Conference on Machine Learning
+    Held in Hanoi, Vietnam on 05-08 December 2024
+
+  Published as Volume 260 by the Proceedings of Machine Learning Research on 14 January 2025.
+
+  Volume Edited by:
+    Vu Nguyen
+    Hsuan-Tien Lin
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 05--08 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v260"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v260
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v260
+email: ''
+conference:
+  name: Asian Conference on Machine Learning
+  url: https://www.acml-conf.org/2024/
+  location: Hanoi, Vietnam
+  dates:
+  - *1
+  - 2024-12-06
+  - 2024-12-07
+  - 2024-12-08
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: "/Users/neil/mlresearch/v260/acml2024.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v260/acml2024.bib
