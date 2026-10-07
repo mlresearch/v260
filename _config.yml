@@ -3,7 +3,7 @@ booktitle: Proceedings of the 16th Asian Conference on Machine Learning
 shortname: ACML
 publisher: PMLR
 published: 2025-01-14
-start: &1 2024-12-05
+start: 2024-12-05
 end: 2024-12-08
 series: Proceedings of Machine Learning Research
 volume: '260'
@@ -68,7 +68,7 @@ conference:
   url: https://www.acml-conf.org/2024/
   location: Hanoi, Vietnam
   dates:
-  - *1
+  - 2024-12-05
   - 2024-12-06
   - 2024-12-07
   - 2024-12-08
